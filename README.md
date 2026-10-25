@@ -1,101 +1,105 @@
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150px" alt="Universe Animation" />
-  <h1>🌌 Welcome to Lucas's World 🌌</h1>
-  <p><b>1Lucas1apk</b> | Passionate Developer | Creative Thinker | Lifelong Learner</p>
-</div>
+# 🪼 Lucas Morais Rodrigues
 
----
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="130" alt="A little piece of the universe" />
+</p>
 
-<h2>✨ A Glimpse Into My Universe ✨</h2>
-
-<p>
-  Hi! I'm <b>Lucas Morais Rodrigues</b> (a.k.a. <b>1Lucas1apk</b>), born on <b>03/06</b>.  
-  At 18, I'm a curious and creative soul with a passion for solving problems, building meaningful projects, and constantly exploring new horizons—both in tech and life.
+<p align="center">
+  <strong>1Lucas1apk</strong> · 20 years old · Developer
+  <br />
+  <i>I break things to understand them. Sometimes I even fix them.</i>
 </p>
 
 ---
 
-<h2>💡 Who Am I Beyond the Code?</h2>
+### 🧃 So, what am I doing here?
 
-<ul>
-  <li><b>Deep Thinker:</b> Reflecting on big ideas fuels my creativity in unexpected ways.</li>
-  <li><b>Problem Solver:</b> Challenges push me to grow and think outside the box.</li>
-  <li><b>Supportive Friend:</b> I value meaningful connections and inspire those around me.</li>
-  <li><b>Music Lover:</b> Music resonates with my mood and creativity, often guiding my flow.</li>
-  <li><b>Lifelong Learner:</b> From new programming languages to understanding the world better—I'm always learning.</li>
-</ul>
+Hey, I'm Lucas.
+
+I write code, get curious about things I probably shouldn't be spending three hours investigating, and occasionally end up turning that curiosity into an actual project.
+
+Most of my work happens around JavaScript, TypeScript, and Node.js. I enjoy building libraries, messing with audio-related stuff, and figuring out what happens behind the scenes when software does something unexpected.
+
+I'm not the kind of person who can just accept that something works and move on. I usually want to know *why* it works, what happens when it doesn't, and whether there's a better way to do it.
+
+Which is great for learning. Not always great for the amount of time I spend on a tiny bug.
+
+### 🎚️ Things I've been building
+
+**🎵 [Moonlink.js](https://github.com/1Lucas1apk/moonlink.js)**
+
+A project born out of my interest in music bots and the systems that make them work.
+
+I built Moonlink.js to give developers a way to manage music playback in their Discord bots without having to deal with every underlying detail themselves. Along the way, there's plenty to figure out about player state, events, connections, and all the little things that can go wrong during playback.
+
+It's one of those projects where a seemingly small feature can teach you much more than expected.
+
+**🪐 [NodeLink](https://github.com/PerformanC/NodeLink)**
+
+Audio, but with more things happening behind the curtain.
+
+NodeLink is part of my work around audio streaming and media playback with Node.js. The interesting part isn't simply getting audio from one place to another; it's understanding the chain of components responsible for making that happen.
+
+Formats, decoders, data flowing through a pipeline, unexpected behavior, performance quirks — there's always another layer to investigate.
+
+**🪲 Reverse engineering & the rabbit holes**
+
+This is where curiosity can get a little out of hand.
+
+I enjoy digging into existing software, reproducing strange behavior, tracing execution paths, and figuring out how something works when the answer isn't immediately obvious. Sometimes the goal is to understand an implementation; sometimes it's to reproduce a bug that refuses to make sense.
+
+My favorite part is that moment when a mess of observations finally starts connecting.
+
+It's a bit like solving a puzzle, except the puzzle occasionally crashes, lies to you, and gives you a completely different result on the next run.
 
 ---
 
-<h2>🚀 My Mission</h2>
+### 🧰 My toolbox, more or less
 
 <p>
-  My mission extends beyond programming:  
-  It's about making meaningful contributions, empowering others, and using technology to solve real-world problems.  
-  From clean, scalable code to collaborating on impactful projects, I aim to create tools that truly matter.
+  <img src="https://img.shields.io/badge/JavaScript-1f1f1f?style=flat-square&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-1f1f1f?style=flat-square&logo=typescript" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-1f1f1f?style=flat-square&logo=nodedotjs" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Lua-1f1f1f?style=flat-square&logo=lua" alt="Lua" />
+  <img src="https://img.shields.io/badge/Python-1f1f1f?style=flat-square&logo=python" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-1f1f1f?style=flat-square&logo=rust" alt="Rust" />
 </p>
 
----
+JavaScript and TypeScript are where I spend most of my time. I also explore other languages when a project gives me a good reason to step outside my usual environment.
 
-<h2>🌟 My Work</h2>
+Beyond languages, I spend time with audio processing, data persistence, debugging, APIs, and the internal mechanics of software. My interests tend to follow whatever technical problem has caught my attention lately.
 
-<h3>🎵 <a href="https://github.com/1Lucas1apk/moonlink.js" target="_blank">Moonlink.js</a></h3>
-<p>
-  Moonlink.js is one of my proudest creations—a lightweight and efficient Lavalink client designed to make Discord music bots accessible to everyone.  
-  It's a reflection of my passion for music and technology, combining the two in an elegant way.
-</p>
+I'm still figuring things out — and that's kind of the point.
 
----
+### 🧠 Currently occupying my brain
 
-<h2>🛠️ Skills & Tools</h2>
+Understanding systems beyond their public interfaces. Making complicated behavior reproducible. Exploring how components fit together. Finding out whether a strange bug is actually a bug or just a very convincing misunderstanding.
 
-<ul>
-  <li><b>Programming Languages:</b> JavaScript, TypeScript, Rust (learning), Java, Python, Lua.</li>
-  <li><b>Database Management:</b> JSON-based storage solutions and dynamic data handling.</li>
-  <li><b>Discord Bot Development:</b> Extensive experience with <code>discord.js</code> and <code>moonlink.js</code>.</li>
-  <li><b>Version Control:</b> Git, GitHub.</li>
-  <li><b>Soft Skills:</b> Problem-solving, collaboration, creativity, adaptability, and leadership in projects.</li>
-</ul>
+I don't always start with a clear answer. More often, I start with a question, a test case, and a terminal full of output that makes absolutely no sense.
 
-<p>I'm always exploring new tools and technologies to expand my skill set.</p>
+Eventually, it usually starts making sense.
 
----
-
-<h2>🎯 Goals</h2>
-
-<ul>
-  <li>Contribute to open-source projects that inspire others.</li>
-  <li>Explore artificial intelligence and its potential applications.</li>
-  <li>Collaborate with like-minded people to create something extraordinary.</li>
-  <li>Never stop learning and growing—both personally and professionally.</li>
-</ul>
-
----
-
-<h2>📊 GitHub Stats</h2>
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=1Lucas1apk&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1Lucas1apk&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Lucas1apk&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-<h2>📬 Get in Touch</h2>
+### 🛰️ Find me elsewhere
 
 <p>
-  I'm always open to connecting with new people, sharing ideas, and collaborating. Feel free to reach out:
+  <a href="https://github.com/1Lucas1apk">
+    <img src="https://img.shields.io/badge/GitHub-1Lucas1apk-1f1f1f?style=flat-square&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="mailto:1lucas1apk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say_hello-1f1f1f?style=flat-square&logo=gmail" alt="Email me" />
+  </a>
 </p>
-<ul>
-  <li><b>Discord:</b> 1lucas1apk</li>
-  <li><b>Email:</b> <a href="mailto:1lucas1apk@gmail.com">1lucas1apk@gmail.com</a></li>
-</ul>
+
+Discord: `1lucas1apk`
 
 ---
 
-<div>
-  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="250px" alt="Thank You Animation" />
-  <h3>Thank you for visiting my profile! 🚀</h3>
-  <p>Let's connect and build something amazing together. See you around!</p>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=1Lucas1apk&show_icons=true&hide_border=true&theme=transparent" alt="GitHub statistics" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1Lucas1apk&layout=compact&hide_border=true&theme=transparent" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <i>🔍 There is probably a simpler explanation. I just haven't found it yet.</i>
+</p>
